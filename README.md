@@ -6,17 +6,22 @@ I'm a full-time software engineer working at AWS. Come see what we're working on
 
 Outside of work I enjoy eating, working out, gaming, and putting together 🔥  playlists. Feel free to check out my current rotation:
 
-<div align="center">
+<div align="center" style="display: inline-block;">
 
   [![Spotify Badge](https://img.shields.io/badge/Bangas,Boppers,Vibes-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4indEqQRNJ7bQQ6ZcFprcQ?si=9oyvyNniSjiFtp_q4WJfkg)
   
   [![Spotify Badge](https://img.shields.io/badge/Codin_Dirty-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/51HCxs296uNMU9Rm621pRr?si=T7gROZp7QeCnUVf-nCUoXg)
   
+  </div>
+  
+  <div align="center" style="display: inline-block;">
+  
   [![Spotify Badge](https://img.shields.io/badge/trapbutter-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3FDSgGFtuS2Bk8udDvnJFP?si=5wmwpraUT7i2Bm7FQqb9ag)
   
   [![Spotify Badge](https://img.shields.io/badge/Sometimes_I_Miss_Warped-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2S1Ky4OlsFYV8LrtKXU2C1?si=1y1McL3LSROrsuRmBj7lgw)
 
-</div>
+  </div>
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=brycahta&show_icons=true)
 
