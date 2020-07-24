@@ -10,9 +10,13 @@ Outside of work I enjoy eating, working out, gaming, and putting together 🔥  
 
   [![Spotify Badge](https://img.shields.io/badge/Bangas,Boppers,Vibes-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4indEqQRNJ7bQQ6ZcFprcQ?si=9oyvyNniSjiFtp_q4WJfkg)
   
+</div>
+  
+<div align="center" style="display: inline-block;">
+  
   [![Spotify Badge](https://img.shields.io/badge/Codin_Dirty-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/51HCxs296uNMU9Rm621pRr?si=T7gROZp7QeCnUVf-nCUoXg)
   
-  </div>
+</div>
   
   <div align="center" style="display: inline-block;">
   
