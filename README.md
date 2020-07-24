@@ -4,7 +4,7 @@
 
 I'm a full-time software engineer working at AWS. Come see what we're working on by visiting our [public roadmap](https://github.com/aws/ec2-spot-instances-integrations-roadmap/projects/1) 😄
 
-Outside of work I enjoy eating, working out, gaming, and putting together 🔥  playlists. Feel free to check out my current rotation:
+Outside of work I enjoy eating, working out, gaming, and putting together 🔥   playlists. Feel free to check out my current rotation:
 
   [![Spotify Badge](https://img.shields.io/badge/Bangas,Boppers,Vibes-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4indEqQRNJ7bQQ6ZcFprcQ?si=9oyvyNniSjiFtp_q4WJfkg)
   [![Spotify Badge](https://img.shields.io/badge/Codin_Dirty-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/51HCxs296uNMU9Rm621pRr?si=T7gROZp7QeCnUVf-nCUoXg)
