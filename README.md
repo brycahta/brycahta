@@ -12,4 +12,4 @@ crushin tasks and hitting mild stones at AWS. outside of work i'm prob eating in
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=brycahta&show_icons=true)
 
-[![HitCount](http://hits.dwyl.com/crtbry/crtbry.svg)](http://hits.dwyl.com/crtbry/crtbry)
+![ViewCount](https://views.whatilearened.today/views/github/crtbry/crtbry.svg)
